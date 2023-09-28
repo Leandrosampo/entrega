@@ -1,0 +1,80 @@
+[
+  {
+    "id": 6,
+    "title": "Jabon",
+    "description": "Plusbelle",
+    "price": "180",
+    "thumbnail": "www.google.com",
+    "code": 37,
+    "stock": 321
+  },
+  {
+    "id": 7,
+    "title": "Pep",
+    "description": "Snack",
+    "price": "13.22",
+    "thumbnail": "www.google.com",
+    "code": 69,
+    "stock": 321
+  },
+  {
+    "id": 8,
+    "title": "Lavandina",
+    "description": "Pura",
+    "price": "13.22",
+    "thumbnail": "www.google.com",
+    "code": 698,
+    "stock": 931,
+    "status": true
+  },
+  {
+    "id": 10,
+    "title": "Detergente",
+    "description": "lux",
+    "price": "13.22",
+    "thumbnail": "www.google.com",
+    "code": 6959,
+    "stock": 931,
+    "status": true
+  },
+  {
+    "id": 11,
+    "title": "Detergente",
+    "description": "Magistral",
+    "price": "13.22",
+    "thumbnail": "www.google.com",
+    "code": 6999,
+    "stock": 931,
+    "status": true
+  },
+  {
+    "id": 13,
+    "title": "Jugo",
+    "description": "Cepita",
+    "price": "13.22",
+    "thumbnail": "www.google.com",
+    "code": 61339,
+    "stock": 931,
+    "status": true
+  },
+  {
+    "id": 14,
+    "title": "Jugo",
+    "description": "Baggio",
+    "price": "13.22",
+    "thumbnail": "www.google.com",
+    "code": 639,
+    "stock": 931,
+    "status": true
+  },
+  {
+    "id": 15,
+    "title": "Jugo",
+    "description": "Fresh",
+    "price": "13.22",
+    "thumbnail": "www.google.com",
+    "code": 63932,
+    "stock": 931,
+    "status": true
+  }
+]
